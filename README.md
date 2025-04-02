@@ -1,4 +1,4 @@
-# :warning: For Educational Purposes Only :exclamation:
+# For Educational Purposes Only
 
 Disclaimer :
 1. For educational purposes only.
